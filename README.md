@@ -5,15 +5,15 @@ The Sorting Hat is a magical talking hat at Hogwarts School of Witchcraft and Wi
 🦡 Hufflepuff
 🐍 Slytherin
 
-🧙‍♂️ The Sorting Hat Quiz
+🧙‍♂️ The Sorting Hat Quiz:
 A simple, interactive Python program that sorts users into one of the four Hogwarts houses based on their answers to a short quiz — inspired by the magical world of Harry Potter!
 
-🧪 How It Works
+🧪 How It Works:
 The quiz asks the user three multiple-choice questions. Based on their responses, each Hogwarts house — Gryffindor, Ravenclaw, Hufflepuff, and Slytherin — receives a certain number of points.
 
 At the end, the house with the highest score is announced as the user's match!
 
-✅ Questions & Scoring
+✅ Questions & Scoring:
 Do you like Dawn or Dusk?
 
 Dawn → +1 to Gryffindor & Ravenclaw
@@ -40,7 +40,7 @@ Piano → +4 to Ravenclaw
 
 Drum → +4 to Gryffindor
 
-🏆 Output
+🏆 Output:
 The program displays the final scores for each house and declares the winning house based on the highest score.
 
 Example output:
@@ -52,12 +52,12 @@ Slytherin: 2
 
 Gryffindor Wins!
 
-⚠️ Notes
+⚠️ Notes:
 The quiz expects valid input values (e.g., 1–2 or 1–4 depending on the question).
 
 Invalid inputs will result in a "Wrong input." message but will not crash the program.
 
-✨ Future Ideas
+✨ Future Ideas:
 Add more questions for better sorting accuracy.
 
 Allow ties or provide personality breakdowns.
